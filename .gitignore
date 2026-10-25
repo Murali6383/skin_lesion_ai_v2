@@ -1,0 +1,35 @@
+# Dataset
+dataset/
+
+# Trained models
+models_saved/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# Grad-CAM generated images
+results/gradcam/
+
+# Node
+frontend/node_modules/
+frontend/dist/
